@@ -8,9 +8,6 @@ using LicensingApi.Logic;
 using LicensingApi.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-/*
-TODO: 
-*/
 
 namespace LicensingApi.Controllers
 {
