@@ -1,0 +1,27 @@
+2021-05-25T17:07:00.6927251+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: https://localhost:5001
+2021-05-25T17:07:00.6955433+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5000
+2021-05-25T17:07:00.6957587+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2021-05-25T17:07:00.6957855+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2021-05-25T17:07:00.6958209+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: C:\Users\VladConstantinToma\Documents\Personal\LicensingApi
+2021-05-25T17:07:07.4691771+03:00	FAIL	[LicensingApi.Controllers.LicensingController]	[0]	There was a problem generating the license :    at LicensingApi.Controllers.LicensingController.SaveKeyIntoDataBase(String userName, String application, Object licenseKey) in C:\Users\VladConstantinToma\Documents\Personal\LicensingApi\Controllers\LicensingController.cs:line 74
+   at LicensingApi.Controllers.LicensingController.GenerateLicense(String userName, String application) in C:\Users\VladConstantinToma\Documents\Personal\LicensingApi\Controllers\LicensingController.cs:line 36
+2021-05-25T17:11:23.2896464+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: https://localhost:5001
+2021-05-25T17:11:23.2933078+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5000
+2021-05-25T17:11:23.2960035+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2021-05-25T17:11:23.2986297+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2021-05-25T17:11:23.3033772+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: C:\Users\VladConstantinToma\Documents\Personal\LicensingApi
+2021-05-25T19:21:43.3280220+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: https://localhost:5001
+2021-05-25T19:21:43.3336425+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5000
+2021-05-25T19:21:43.3389937+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2021-05-25T19:21:43.3427169+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2021-05-25T19:21:43.3469678+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: C:\Users\VladConstantinToma\Documents\Personal\LicensingApi
+2021-05-25T19:22:31.7409280+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: https://localhost:5001
+2021-05-25T19:22:31.7535758+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5000
+2021-05-25T19:22:31.7678055+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2021-05-25T19:22:31.7755468+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2021-05-25T19:22:31.7832123+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: C:\Users\VladConstantinToma\Documents\Personal\LicensingApi
+2021-05-25T19:34:28.9762360+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: https://localhost:5001
+2021-05-25T19:34:28.9808122+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Now listening on: http://localhost:5000
+2021-05-25T19:34:28.9860265+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Application started. Press Ctrl+C to shut down.
+2021-05-25T19:34:28.9919178+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Hosting environment: Development
+2021-05-25T19:34:28.9963154+03:00	INFO	[Microsoft.Hosting.Lifetime]	[0]	Content root path: C:\Users\VladConstantinToma\Documents\Personal\LicensingApi
