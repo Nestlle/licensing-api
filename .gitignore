@@ -1,0 +1,5 @@
+#Ignored directories
+/LicensingApi/bin/*
+/LicensingApi/obj/*
+**/bin/
+**/obj/
