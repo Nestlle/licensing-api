@@ -7510,11 +7510,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VladConstantinToma\\Documents\\Personal\\LicensingApi\\LicensingApi.csproj",
+      "projectUniqueName": "C:\\Users\\VladConstantinToma\\Documents\\repos\\licensing-api\\LicensingApi\\LicensingApi.csproj",
       "projectName": "LicensingApi",
-      "projectPath": "C:\\Users\\VladConstantinToma\\Documents\\Personal\\LicensingApi\\LicensingApi.csproj",
+      "projectPath": "C:\\Users\\VladConstantinToma\\Documents\\repos\\licensing-api\\LicensingApi\\LicensingApi.csproj",
       "packagesPath": "C:\\Users\\VladConstantinToma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VladConstantinToma\\Documents\\Personal\\LicensingApi\\obj\\",
+      "outputPath": "C:\\Users\\VladConstantinToma\\Documents\\repos\\licensing-api\\LicensingApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VladConstantinToma\\AppData\\Roaming\\NuGet\\NuGet.Config",
