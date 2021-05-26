@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I2s+B0t1g/9PZteb6qKUvN8DPi43tu6k0D+B0qKShyXdC1ZJM+w3sEhknEzkwlAxm1swJ2uAV+E80kg1aCAelg==",
+  "dgSpecHash": "pLAPcn9vPVlbJdKINJVfDxxv3fzlfFYdNZao5G6ySuezAW3AWz2GRl/HtrOaP/ql7b7mTNSwFjfK/LzrFaPjgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VladConstantinToma\\Documents\\Personal\\LicensingApi\\LicensingApi.csproj",
+  "projectFilePath": "c:\\Users\\VladConstantinToma\\Documents\\repos\\licensing-api\\LicensingApi\\LicensingApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VladConstantinToma\\.nuget\\packages\\appsoftware.licenceengine.keygenerator\\1.3.0\\appsoftware.licenceengine.keygenerator.1.3.0.nupkg.sha512",
     "C:\\Users\\VladConstantinToma\\.nuget\\packages\\appsoftware.licenceengine.keyverification\\1.3.0\\appsoftware.licenceengine.keyverification.1.3.0.nupkg.sha512",
