@@ -1,6 +1,6 @@
 using NUnit.Framework;
 using LicensingApi.Logic;
-
+using FluentAssertions;
 namespace LicensingApi.Tests.Logic
 {
     public class KeyHandlerTest
@@ -14,11 +14,12 @@ namespace LicensingApi.Tests.Logic
         public void Test_GenerateKey_IsValid()
         {
             //Arange
-            string license = KeyHandler.GenerateKey();
+            string licenseKey;
             //Act
-            bool isKeyValid = KeyHandler.ValidateKey(license);
+            licenseKey = KeyHandler.GenerateKey();
+            var result = KeyHandler.ValidateKey(licenseKey);
             //Assert
-            Assert.IsTrue(isKeyValid);
+            result.Should().BeTrue();
         }
     }
 }
